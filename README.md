@@ -1,2 +1,2 @@
 # django_custom_handlers_task
-Кастомные страницы Джанго-проекта
+A Yandex Practicum training project. Custom Django project pages
